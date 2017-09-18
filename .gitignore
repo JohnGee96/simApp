@@ -6,7 +6,4 @@
 /build
 /captures
 .externalNativeBuild
-Dependency/*
-/app/.idea/*
-/app/.svn/*
-/app/local.properties
+app/libs/

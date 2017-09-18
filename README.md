@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple native Android mobile app created for learning the foundation of mobile development in
+A simple native Android mobile app created for learning the foundation of mobile development
 
 ## Usage Instructions
 
